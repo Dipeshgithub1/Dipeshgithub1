@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://x.com/Dipeshmehr" target="blank"><img align="center" src="https://img.freepik.com/vektoren-kostenlos/neues-logo-x-der-twitter-app-auf-schwarzem-hintergrund_1017-45425.jpg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dipesh-kumar-701545226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dipeshiic/" target="blank"><img align="center" src="https://technarrator.com/wp-content/uploads/2023/05/LeetCode_Logo_black_with_text.svg-1024x248.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/dipeshiic/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/dk02538t2/?ref=header_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks-for-geeks" height="30" width="40" /></a>
 </p>
 
