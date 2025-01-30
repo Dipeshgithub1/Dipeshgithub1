@@ -11,7 +11,7 @@
 - 💬 Ask me about **Full Stack Web Development 👻, Competitive Programming 🦄**
 
 - 📫 How to reach me: **dipesh.bcasdu@gmail.com**
-- 📫 How to reach me: ** https://portfolio-dipesh-my.vercel.app/**                                    
+- 📫 How to reach me: **https://portfolio-dipesh-my.vercel.app/**                                    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Dipeshmehr" target="blank"><img align="center" src="https://img.freepik.com/vektoren-kostenlos/neues-logo-x-der-twitter-app-auf-schwarzem-hintergrund_1017-45425.jpg" alt="twitter" height="30" width="40" /></a>
