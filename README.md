@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently getting better at **JavaScript & NextJS**
 
-- 💬 Ask me about **Full Stack Web Development 👻, Competitive Programming 🦄**
+- 💬 Ask me about **Full Stack Web Development 👻, Software Developer 🦄**
 
 - 📫 How to reach me: **dipesh.bcasdu@gmail.com**
 - 📫 How to reach me: **https://portfolio-dipesh-my.vercel.app/**                                    
