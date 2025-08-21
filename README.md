@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dipeshgithub1&label=Profile%20views&color=0e75b6&style=flat" alt="Dipeshgithub1" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects and Problem Solving**
+- 🔭 I’m currently working on **Full Stacking Developer and Problem Solving**
 
-- 🌱 I’m currently getting better at **JavaScript & NextJS**
+- 🌱 I’m currently getting better at **TypeScript & NextJS**
 
-- 💬 Ask me about **Full Stack Web Development 👻, Software Developer 🦄**
+- 💬 Ask me about **Full Stack  Development 👻, Software Developer 🦄 and Data Analytics**
 
 - 📫 How to reach me: **dipesh.bcasdu@gmail.com**
 - 📫 How to reach me: **https://portfolio-dipesh-my.vercel.app/**                                    
