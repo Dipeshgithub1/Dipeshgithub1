@@ -65,45 +65,6 @@ Here are some of the technologies I work with. I've organized them to give you a
 
 ---
 
-### 🏆 Featured Projects
-
-Here are a few projects I'm proud of.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3 align="center">[Your Project Name Here]</h3>
-  <p align="center">
-  <a href="[Link to Live Project]" target="_blank">
-    <img src="[Link to a screenshot or GIF of your project]" alt="Project Demo" width="100%">
-  </a>
-  <br>
-  <em>[A short, catchy description of your project. What does it do? Why is it cool?]</em>
-  <br><br>
-  <strong>Tech:</strong> Next.js, TypeScript, Tailwind CSS, Prisma
-  <br>
-  <a href="[Link to Live Project]" target="_blank">View Live</a> • <a href="[Link to GitHub Repo]" target="_blank">Source Code</a>
-  </p>
-</td>
-<td width="50%" valign="top">
-  <h3 align="center">[Another Project Name Here]</h3>
-  <p align="center">
-  <a href="[Link to Live Project]" target="_blank">
-    <img src="[Link to a screenshot or GIF of your project]" alt="Project Demo" width="100%">
-  </a>
-  <br>
-  <em>[A short, catchy description of your project. What does it do? Why is it cool?]</em>
-  <br><br>
-  <strong>Tech:</strong> React, Node.js, MongoDB, Framer Motion
-  <br>
-  <a href="[Link to Live Project]" target="_blank">View Live</a> • <a href="[Link to GitHub Repo]" target="_blank">Source Code</a>
-  </p>
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
