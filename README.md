@@ -21,6 +21,7 @@
   <a href="https://x.com/Dipeshmehr" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://portfolio-dipesh-my.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:dipesh.bcasdu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://medium.com/@dipesh.kumar_34560" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
 
 ---
