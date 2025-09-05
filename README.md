@@ -39,7 +39,7 @@ I thrive in the **MERN stack** and **Next.js**, and I’m always exploring tools
 - 🎯 **Goal:** To craft solutions that balance **good engineering** with **great user experience**.  
 
 
-### 🚀 My Tech Arsenal
+### 🚀 My Tech Stack 
 
 Here are some of the technologies I work with. I've organized them to give you a clear picture of my skills.
 
