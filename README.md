@@ -78,5 +78,17 @@ Here are some of the technologies I work with. I've organized them to give you a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipeshgithub1&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <a href="https://medium.com/@dipesh.kumar_34560" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20my%20articles%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  ✍️ I write about full-stack development, tools and lessons learned.  
+  Catch my latest posts on <a href="https://medium.com/@dipesh.kumar_34560">Medium</a>.
+</p>
+
+
 **Recent Activity**
 ---
