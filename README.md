@@ -86,13 +86,16 @@ Here are some of the technologies I work with. I've organized them to give you a
 
 ---
 
+### 📝 Latest Posts on Medium
+
+<!-- BLOG-POST-LIST:START -->
+- [Title of Post 1](https://medium.com/@dipesh.kumar_34560/your-post-1-link)
+- [Title of Post 2](https://medium.com/@dipesh.kumar_34560/your-post-2-link)
+- [Title of Post 3](https://medium.com/@dipesh.kumar_34560/your-post-3-link)
+<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
   <a href="https://medium.com/@dipesh.kumar_34560" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20my%20articles%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Read%20more%20articles%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
-
-<p align="center">
-  ✍️ I write about full-stack development, tools and lessons learned.  
-  Catch my latest posts on <a href="https://medium.com/@dipesh.kumar_34560">Medium</a>.
-</p>
