@@ -83,7 +83,6 @@ Here are some of the technologies I work with. I've organized them to give you a
 ---
 
 <!-- your recent-activity widget content goes here -->
-
 ---
 
 ### 📝 Latest Posts on Medium
