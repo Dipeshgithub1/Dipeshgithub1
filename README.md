@@ -89,9 +89,7 @@ Here are some of the technologies I work with. I've organized them to give you a
 ### 📝 Latest Posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma Imptonance during developemet Phase]([https://medium.com/@dipesh.kumar_34560/your-post-1-link](https://medium.com/@dipesh.kumar_34560/why-every-developer-should-know-a-bit-of-figma-9c026dbf3e4c))
-- [React Importance]([(https://medium.com/@dipesh.kumar_34560/understanding-props-and-props-drilling-in-react-and-how-to-fix-it-144ec2dac5dc)](https://medium.com/@dipesh.kumar_34560/understanding-props-and-props-drilling-in-react-and-how-to-fix-it-144ec2dac5dc))
-- [Title of Post 3](https://medium.com/@dipesh.kumar_34560/your-post-3-link)
+
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
