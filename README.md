@@ -3,7 +3,6 @@
     <img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%" />
   </a>
 </div>
-
 <h1 align="center">
   Hi, I'm D!pesh 👋
 </h1>
